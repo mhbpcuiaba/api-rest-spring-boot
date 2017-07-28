@@ -1,0 +1,4 @@
+br\com\mhbp\controller\RestApiApplicationTests.class
+br\com\mhbp\controller\DiffExecutorTest.class
+br\com\mhbp\integration\RestApiIntegrationTest.class
+br\com\mhbp\controller\DiffControllerUnitTest.class
